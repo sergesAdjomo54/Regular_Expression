@@ -1,0 +1,7 @@
+j'ai eu un problème au niveau de la premire fonction pour vérifier
+afficher le message le lecture avec success du fichier ouvert
+
+dans la fonction afficheregex() j'ai eu un problème ou niveau
+des données que l'utilisateur entre car le input me renvoi un erreur
+(TypeError) or la fonction en elle meme est correcte car testé seule
+elle n'as pas de probleme.
